@@ -1,0 +1,3 @@
+[submodule "funnowStyleDictionaryTest"]
+	path = funnowStyleDictionaryTest
+	url = git@github.com:SpockHsueh/funnowStyleDictionaryTest.git
